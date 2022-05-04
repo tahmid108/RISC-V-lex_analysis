@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1651389590 source:e:\coding solution\dsi\main.cpp
+	<bits/stdc++.h>
+	"stringSplitter.h"
+	"Register.h"
+
+1651389988 e:\coding solution\dsi\include\register.h
+	<bits/stdc++.h>
+
+1651135869 source:e:\coding solution\dsi\src\reg.cpp
+	"Reg.h"
+	<iostream>
+	<string>
+
+1651135995 e:\coding solution\dsi\include\reg.h
+	<string>
+
+1651298929 e:\coding solution\dsi\stringsplitter.h
+	<string>
+	<iostream>
+
+1651309175 source:e:\coding solution\dsi\src\register.cpp
+	"Register.h"
+
